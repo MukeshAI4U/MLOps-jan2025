@@ -1,2 +1,2 @@
-This file is modified in the G24AIT170 branch.
+This is the final content after resolving the merge conflict.
 
